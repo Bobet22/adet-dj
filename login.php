@@ -49,6 +49,15 @@
 <body>
   <?php
 
+  session_start();
+
+  // Check if the user is logged in
+  if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
+    header('Location: home.php');
+  } else {
+    // The user is not logged in
+  }
+
   if (isset($_GET['err'])) {
     if ($_GET['err'] == 1) {
       echo "<script>alert('Invalid Credentials')</script>";
@@ -65,11 +74,11 @@
         <form method="post">
           <div class="form-group">
             <label for="username">Username</label>
-            <input type="text" class="form-control" id="username" name="username" placeholder="Username">
+            <input type="text" class="form-control" id="username" name="username" placeholder="Username" required>
           </div>
           <div class="form-group">
             <label for="password">Password</label>
-            <input type="password" class="form-control" id="password" name="password" placeholder="Password">
+            <input type="password" class="form-control" id="password" name="password" placeholder="Password" required>
           </div>
 
 
@@ -111,7 +120,7 @@
             if ($stmt->rowCount() > 0) {
               // The user exists, so log them in
               session_start();
-              $_SESSION['username'] = $username;
+              $_SESSION['logged_in'] = true;
               header('Location: home.php');
             } else {
               // The user doesn't exist, so show an error message
