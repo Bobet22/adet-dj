@@ -9,8 +9,8 @@
     <h1 class="text-center my-5">Login or Signup</h1>
     <p class="text-center">Please choose whether you want to:</p>
     <div class="d-flex justify-content-center">
-      <a href="login.html" class="btn btn-primary me-3">Login</a>
-      <a href="signup.html" class="btn btn-success">Signup</a>
+      <a href="login.php" class="btn btn-primary me-3">Login</a>
+      <a href="signup.php" class="btn btn-success">Signup</a>
     </div>
   </div>
 </body>

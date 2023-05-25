@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <title>Login and Signup UI</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
@@ -12,31 +11,31 @@
       background-color: #ffffff;
       border-radius: 5px;
     }
-
+    
     .header {
       text-align: center;
     }
-
+    
     .form-group {
       margin-bottom: 10px;
     }
-
+    
     .input-group {
       width: 100%;
     }
-
+    
     .input-group-text {
       background-color: #eeeeee;
       border-radius: 0 5px 5px 0;
     }
-
+    
     .btn {
       background-color: #000000;
       color: #ffffff;
       border-radius: 5px;
       width: 100%;
     }
-
+    
     .btn:hover {
       background-color: #000000;
       color: #ffffff;
@@ -45,25 +44,14 @@
     }
   </style>
 </head>
-
 <body>
-  <?php
-
-  if (isset($_GET['err'])) {
-    if ($_GET['err'] == 1) {
-      echo "<script>alert('Invalid Credentials')</script>";
-    }
-  }
-
-  ?>
   <div class="container">
     <div class="header">
       <h1>Login and Signup UI</h1>
     </div>
-    <div class="row">
       <div class="col-md-12">
-        <h2>Login</h2>
-        <form method="post">
+        <h2>Signup</h2>
+        <form action="" method="post">
           <div class="form-group">
             <label for="username">Username</label>
             <input type="text" class="form-control" id="username" name="username" placeholder="Username">
@@ -72,9 +60,7 @@
             <label for="password">Password</label>
             <input type="password" class="form-control" id="password" name="password" placeholder="Password">
           </div>
-
-
-          <button type="submit" class="btn btn-primary">Login</button>
+          <button type="submit" class="btn btn-primary">Signup</button>
         </form>
 
         <?php
@@ -98,7 +84,7 @@
             $password = $_POST['password'];
 
             // Prepare the SQL statement
-            $sql = "SELECT * FROM users WHERE username = :username AND password = :password";
+            $sql = "INSERT INTO users (username, password) VALUES (:username, :password)";
 
             // Bind the parameters
             $stmt = $pdo->prepare($sql);
@@ -108,16 +94,18 @@
             // Execute the query
             $stmt->execute();
 
-            // Check if the user exists
-            if ($stmt->rowCount() > 0) {
-              // The user exists, so log them in
-              session_start();
-              $_SESSION['username'] = $username;
-              header('Location: home.php');
-            } else {
-              // The user doesn't exist, so show an error message
-              header("Location: login.php?err=1");
-            }
+            header('Location: login.php');
+
+            // echo $stmt;
+
+            // // Check if the user exists
+            // if ($stmt->rowCount() > 0) {
+            //   // The user exists, so log them in
+            //   // header('Location: home.php');
+            // } else {
+            //   // The user doesn't exist, so show an error message
+            //   // header("Location: login.php?err=1");
+            // }
           }
         } catch (PDOException $e) {
           // Display an error message if the connection fails
@@ -128,5 +116,4 @@
     </div>
   </div>
 </body>
-
 </html>
