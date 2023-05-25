@@ -52,7 +52,7 @@
     <div class="row">
       <div class="col-md-12">
         <h2>Login</h2>
-        <form action="/login" method="post">
+        <form action="check.php" method="post">
           <div class="form-group">
             <label for="username">Username</label>
             <input type="text" class="form-control" id="username" placeholder="Username">
@@ -68,3 +68,7 @@
   </div>
 </body>
 </html>
+
+
+
+
