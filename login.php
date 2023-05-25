@@ -58,7 +58,6 @@
   ?>
   <div class="container">
     <div class="header">
-      <h1>Login and Signup UI</h1>
     </div>
     <div class="row">
       <div class="col-md-12">

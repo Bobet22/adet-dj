@@ -47,7 +47,6 @@
 <body>
   <div class="container">
     <div class="header">
-      <h1>Login and Signup UI</h1>
     </div>
       <div class="col-md-12">
         <h2>Signup</h2>
