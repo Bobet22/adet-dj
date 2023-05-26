@@ -89,7 +89,6 @@
       <div class="col-6 justify-content-center d-flex flex-column">
         <h2>Login</h2>
         <br>
-        <br>
         <form method="post">
           <div class="form-group">
             <label for="username" style="color: white">Username</label>

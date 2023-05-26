@@ -79,6 +79,8 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-6">
+      <h2>Signup</h2>
+        <br>
       <form action="" method="post">
         <div class="form-group">
           <label for="username" style="color: white;">Username</label>
