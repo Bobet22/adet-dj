@@ -300,7 +300,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/314787141_1862278264116056_6574897455911751225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEIrx7gqrm7s7z08wjHy-8AjKi19cPKFwuMqLX1w8oXC4vOBdOHfGZPBn3p3gm7q7yv_qDSCeAKbhMIxQyb-P_a&_nc_ohc=TxeBcMPQz_kAX-jcRGf&_nc_zt=23&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfCZ_i58eyL6SE7cuw30FLcLXriJe8WZRtR_G4f2PH04Rg&oe=6475328E" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://z-p3-scontent.fmnl4-6.fna.fbcdn.net/v/t1.15752-9/349539506_565291322176850_7115422581621885563_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_eui2=AeGvV8LBNVKS5YzPT1zJmanSJqMK12E-O4MmowrXYT47g-CmuoNnaqIdewcXHVtSKhJKGvyzAlNuZo8yfZpGnF5K&_nc_ohc=6N9G1Gc7csoAX973eWO&_nc_ht=z-p3-scontent.fmnl4-6.fna&oh=03_AdTnEfsk09jEOkkxP3fE0lvfsqK-O75n4BDPyV8gxxNJKA&oe=64978B82" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Luis Anthony Grado</h4>
                 <span>CTO</span>
