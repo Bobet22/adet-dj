@@ -67,14 +67,14 @@
 
 
   <?php
-    // session_start();
+    session_start();
 
-    // // Check if the user is logged in
-    // if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
+    // Check if the user is logged in
+    if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
         
-    // } else {
-    //     header('Location: login.php');
-    // }
+    } else {
+        header('Location: login.php');
+    }
     ?>
     <div class="container">
         <div class="row">
