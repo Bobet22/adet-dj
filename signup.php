@@ -90,6 +90,7 @@
           <label for="password" style="color: white;">Password</label>
           <input type="password" class="form-control" id="password" name="password" placeholder="****" required>
         </div>
+        <br>
         <button type="submit" class="btn btn-primary">Signup</button>
       </form>
       </div>

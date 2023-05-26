@@ -99,7 +99,6 @@
             <input type="password" class="form-control" id="password" name="password" placeholder="*****" required>
           </div>
           <br>
-          <br>
 
 
           <button type="submit" class="btn btn-primary">Login</button>
