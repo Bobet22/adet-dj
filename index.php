@@ -266,7 +266,7 @@
 
           <div class="col-12" data-aos="zoom-in" data-aos-delay="100">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://scontent.fmnl4-2.fna.fbcdn.net/v/t39.30808-6/326465545_1847693438941254_2245321264994102532_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeG56a5HlAtwFVEuZJ6WEU6adU19gZBRXR11TX2BkFFdHav1Q1KnuYR5LdFMrnfC4i3ItNS63_tpLPuFeXYbsigb&_nc_ohc=HThM7rfHWpcAX9NlrNw&_nc_zt=23&_nc_ht=scontent.fmnl4-2.fna&oh=00_AfBgDoSAQaxc7v2e83N8hBdwPA9vd-y_wxKUVKJ62sMXTg&oe=64759A18" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Robert Carlyle Bitara</h4>
                 <span>Chief Executive Officer</span>
@@ -283,7 +283,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-4" data-aos="zoom-in" data-aos-delay="200">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://scontent.fmnl4-3.fna.fbcdn.net/v/t39.30808-6/336418932_739531971013125_4184026913321421934_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeH8O_eiZNy_vSKEzN6MB8LjtPuTgt5Et5u0-5OC3kS3m_i_X6ITHOKMABAEKOtfDzEXcBtbFNlg0BdzcVhWzU4d&_nc_ohc=EV0ngVBaznoAX_YE9C2&_nc_zt=23&_nc_ht=scontent.fmnl4-3.fna&oh=00_AfBgciUFZjfQMUn-wo3OB1ACuwpjGC7AIoEdRWpkiUYrNw&oe=64752ACD" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Benedick Binlayo</h4>
                 <span>Product Manager</span>
@@ -300,7 +300,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="300">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://scontent.fmnl4-6.fna.fbcdn.net/v/t39.30808-6/314787141_1862278264116056_6574897455911751225_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeEIrx7gqrm7s7z08wjHy-8AjKi19cPKFwuMqLX1w8oXC4vOBdOHfGZPBn3p3gm7q7yv_qDSCeAKbhMIxQyb-P_a&_nc_ohc=TxeBcMPQz_kAX-jcRGf&_nc_zt=23&_nc_ht=scontent.fmnl4-6.fna&oh=00_AfCZ_i58eyL6SE7cuw30FLcLXriJe8WZRtR_G4f2PH04Rg&oe=6475328E" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Luis Anthony Grado</h4>
                 <span>CTO</span>
@@ -317,7 +317,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://scontent.fmnl4-1.fna.fbcdn.net/v/t39.30808-1/332701891_731167595057192_2659223672518170833_n.jpg?stp=dst-jpg_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeGJCyN5cJ6RPsVue4F6K2m-nFtmpZggbs2cW2almCBuzSEilgDxCq9SE8Kv2agD2Q150TbCNxIUTV7OqDT10suF&_nc_ohc=IcJKipBxv0IAX9UTmJp&_nc_ht=scontent.fmnl4-1.fna&oh=00_AfC1AaUmKdogYusCEvM6C11gm5kqqFmnt8Q4XJC4Ik5phA&oe=64750AE1" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Gairus Niel Legaspi</h4>
                 <span>Accountant</span>
@@ -334,7 +334,7 @@
 
           <div class="col-lg-6 mt-4" data-aos="zoom-in" data-aos-delay="400">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="https://scontent.fmnl4-4.fna.fbcdn.net/v/t39.30808-1/277219644_1152241115580710_8985341912135501705_n.jpg?stp=dst-jpg_p200x200&_nc_cat=109&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeFCL7MmAs8UrP6R_AH4DMLhwpaQl0VZy3_ClpCXRVnLf1EBoT7Q8kBB6Kud8H8laHNdxYFjuvOoyKRhWD-79Ub8&_nc_ohc=7mQZI_KUji4AX8VfjTN&_nc_ht=scontent.fmnl4-4.fna&oh=00_AfAoeYILFumB0PXTM1NAdETpunToN7VrBPA5ZHC6RzHUvA&oe=6474ED76" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Joshua Tandoy</h4>
                 <span>Accountant</span>
