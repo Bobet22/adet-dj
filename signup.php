@@ -71,7 +71,7 @@
   session_start();
 
   if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
-    header('Location: home.php');
+    header('Location: softwares.php');
   } else {
     // The user is not logged in
   }

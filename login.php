@@ -70,7 +70,7 @@
 
   // Check if the user is logged in
   if (isset($_SESSION['logged_in']) && $_SESSION['logged_in'] === true) {
-    header('Location: home.php');
+    header('Location: softwares.php');
   } else {
     // The user is not logged in
   }
