@@ -93,7 +93,7 @@
                 <tr>
                     <td><img src="software_22118.png" alt="GIMP Logo" class="software-logo"></td>
                     <td>Hello.py</td>
-                    <td>HEllo po</td>
+                    <td>Hello World</td>
                     <td><a href="hello.py" download="" class="btn btn-primary">Download Hello.py</a></td>
                 </tr>
                 <tr>
