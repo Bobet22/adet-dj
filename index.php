@@ -71,6 +71,7 @@
         <ul>
           <li><a class="textlods nav-link scrollto active" href="index.php">Home</a></li>
           <li><a class="textlods nav-link scrollto" href="softwares.php">Softwares</a></li>
+          <li><a class="textlods nav-link scrollto" href="signup.php">Signup</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
